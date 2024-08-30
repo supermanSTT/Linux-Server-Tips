@@ -1,4 +1,4 @@
-# Linux-Server-Tips
+# Server-Tips
 
 ## Tips
 * [CentOS download](https://ftp.iij.ad.jp/pub/linux/centos-vault/centos/)
